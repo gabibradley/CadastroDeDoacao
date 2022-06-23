@@ -30,7 +30,6 @@
     text-align: center;
     background-color: rgb(243, 239, 239);
     height: 500px;
-
 }
 
 .rodape {
@@ -39,7 +38,7 @@
     bottom: 0;
     padding: 5px 5px 5px 5px;
     margin: 5px 5px 5px 5px;
-    color:rgb(240, 102, 125);
+    color: rgb(240, 102, 125);
 }
 
 .form {
@@ -52,18 +51,29 @@
     border-color: rgb(230, 100, 122);
     width: 800px;
     display: inline-block;
+    margin: 7px;
+    margin-top: 31px;
 }
 
 label {
     font-size: 22px;
     min-width: 215px;
     display: inline-block;
+    margin: 9px;
+    margin-top: 18px;
+    margin-bottom: 7px;
 }
 
-.cachorro{
- padding-left: 5px;
+.cachorro {
+    padding-left: 5px;
 }
 
-.alinha{
-   width:50px; 
+.alinha {
+    width: 40px;
 }
+
+.input{
+    bottom: 5px 5px;
+}
+
+
